@@ -1,0 +1,23 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",       
+			"properties": {         
+				"marker-color": "#7e7e7e",         
+				"fill": "#7e7e7e",         
+				"stroke": "#555555",         
+				"marker-size": "medium",         
+				"marker-symbol": "",         
+				"popup-text": "Val dei Castellani"       
+			},       
+			"geometry": {         
+				"type": "Point",         
+				"coordinates": [           
+					44.047857,           
+					11.590147        
+				]      
+			}
+		}
+	]
+}
