@@ -9,7 +9,7 @@
 				"stroke": "#555555",         
 				"marker-size": "medium",         
 				"marker-symbol": "",         
-				"popup-text": "<a href=https://scheggediromagna.it/2024/08/09/il-tiglio-e-la-valle-dei-castellani/>Val dei Castellani</a>"
+				"popup-text": "<a href=https://scheggediromagna.it/2024/08/09/il-tiglio-e-la-valle-dei-castellani/ target='_blank'>Val dei Castellani</a>"
 			},       
 			"geometry": {         
 				"type": "Point",         
