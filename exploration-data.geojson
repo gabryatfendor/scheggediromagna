@@ -9,13 +9,33 @@
 				"stroke": "#555555",         
 				"marker-size": "medium",         
 				"marker-symbol": "",         
-				"popup-text": "Val dei Castellani"       
+				"popup-text": "<a href="https://scheggediromagna.it/2024/08/09/il-tiglio-e-la-valle-dei-castellani/">Val dei Castellani</a>       
 			},       
 			"geometry": {         
 				"type": "Point",         
 				"coordinates": [ 
 					11.590147,
 					44.047857
+				]      
+			}
+		}
+	],
+        [
+		{
+			"type": "Feature",       
+			"properties": {         
+				"marker-color": "#7e7e7e",         
+				"fill": "#7e7e7e",         
+				"stroke": "#555555",         
+				"marker-size": "medium",         
+				"marker-symbol": "",         
+				"popup-text": "San Paolo in Alpe"       
+			},       
+			"geometry": {         
+				"type": "Point",         
+				"coordinates": [ 
+					11.7990133,
+					43.8769022
 				]      
 			}
 		}
